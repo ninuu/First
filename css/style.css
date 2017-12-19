@@ -1,3 +1,4 @@
+/*header*/
 .header{
 	padding-top:30px;
 	padding-left:30px;
@@ -25,6 +26,19 @@
 .navigation ul li a:hover{
 	color:red;
 }
+/*end header*/
+
+/*banner*/
+.banner{
+	width:1170px;
+	margin:77px auto 0 auto;
+}
+.banner img{
+	width:100%; 
+	display:block;
+}
+
+/*banner*/
 
 
 
